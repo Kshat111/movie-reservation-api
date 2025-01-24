@@ -16,7 +16,6 @@ A backend service for a Movie Reservation System built using the **NodeJS**. Thi
   - [Reservation Management](#reservation-management)
   - [Admin Routes](#admin-routes)
 - [Environment Variables](#environment-variables)
-- [Project Structure](#project-structure)
 
 ---
 
